@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "577150664395",
+    "project_id": "sandie-bb2c7",
+    "storage_bucket": "sandie-bb2c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577150664395:android:0bd48b79499c6ead48654e",
+        "android_client_info": {
+          "package_name": "com.example.sandie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577150664395-b05e36vqo3805fmbmumfddrho28822mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0gZ1_Xhq1lfG1ZAerFlHYD6LBfDslfTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577150664395-b05e36vqo3805fmbmumfddrho28822mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577150664395:android:c9b561b2e2f663b248654e",
+        "android_client_info": {
+          "package_name": "com.example.sendie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577150664395-b05e36vqo3805fmbmumfddrho28822mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0gZ1_Xhq1lfG1ZAerFlHYD6LBfDslfTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577150664395-b05e36vqo3805fmbmumfddrho28822mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

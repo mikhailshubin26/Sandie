@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sandie</string>
+    <string name="welcome_back">Привет</string>
+    <string name="login">Войти</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="create_account">Создать Аккаунт</string>
+    <string name="name">Имя</string>
+    <string name="confirm_password">Подтвердите Пароль</string>
+    <string name="sign_up">Создать Аккаунт</string>
+    <string name="select_user">Выберите пользователя</string>
+    <string name="type_a_message">Введите сообщение...</string>
+</resources>
